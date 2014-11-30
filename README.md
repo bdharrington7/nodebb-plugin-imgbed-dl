@@ -1,12 +1,10 @@
-nodebb-plugin-imgbed
+nodebb-plugin-imgbed-dl
 ====================
-
-Embeds images into a post with just an image url
+Downloads linked image assets to a new location
 
 Features
 ------------------
-* Ability to specify which image extensions are supported
-* Option to auto-download any hotlinked pictures
+To be implemented
 
 Upcoming
 ------------------
