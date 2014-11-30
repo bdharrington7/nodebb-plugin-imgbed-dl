@@ -1,4 +1,13 @@
-nodebb-plugin-imgbed-dl
-=======================
+nodebb-plugin-imgbed
+====================
 
-Breakout of the original Imgbed plugin that takes care of downloading linked image assets to alternate storage location
+Embeds images into a post with just an image url
+
+Features
+------------------
+* Ability to specify which image extensions are supported
+* Option to auto-download any hotlinked pictures
+
+Upcoming
+------------------
+* Progress bar
