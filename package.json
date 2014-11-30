@@ -1,0 +1,33 @@
+{
+  "name": "nodebb-plugin-imgbed",
+  "version": "0.1.0",
+  "description": "Creates an image tag to an image url that you post",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdharrington7/nodebb-plugin-imgbed.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "image",
+    "embed",
+    "embedding"
+  ],
+  "author": "Brian Harrington <BDHarrington7@gmail.com> (http://bdharrington.com/)",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/bdharrington7/nodebb-plugin-imgbed/issues"
+  },
+  "dependencies": {
+    "xregexp": "~2.0.0",
+    "mkdirp": "~0.3.0",
+    "winston": "^0.8.3"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  }
+}
